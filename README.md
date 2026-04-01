@@ -1,2 +1,2 @@
 ●コマンド
-cd /d "D:\Gobot"
+cd /d D:\Gobot
